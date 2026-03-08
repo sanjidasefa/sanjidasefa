@@ -1,24 +1,24 @@
 # Hi there! 👋 I'm Kazi Sanjida Akter Sefa
+
 <p align="center">
-  <img src="https://i.postimg.cc/g0yCRNPT/Blue-Modern-Professional-Graphic-Designer-Banner.pngক" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/g0yCRNPT/Blue-Modern-Professional-Graphic-Designer-Banner.png" alt="Banner" width="100%">
 </p>
 
 ### 💫 About Me
-I am a passionate **Marn Stack Web Developer** and **Graphics Designer** dedicated to building functional, user-centric, and visually stunning digital experiences. With a strong foundation in modern web technologies and creative design tools, I bridge the gap between complex code and elegant aesthetics.
+I am a passionate **MERN Stack Web Developer** and **Graphics Designer** dedicated to building functional, user-centric, and visually stunning digital experiences. With a strong foundation in modern web technologies and creative design tools, I bridge the gap between complex code and elegant aesthetics.
 
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 I’m currently working on **Furni-Hub**, a premium furniture e-commerce platform.
-- 🌱 I’m currently learning **Advanced Next.js** and **System Architecture**.
-- 🛠️ Exploring ways to integrate AI-driven features into web applications.
+- 🔭 I’m currently leading the development of **Elegant Essence**, a sophisticated service management system featuring ticket-triaging and dynamic user role updates.
+- 🛍️ Building **Furni-Hub**, a premium furniture e-commerce platform using Next.js and MongoDB.
+- 🌱 I’m currently deepening my knowledge in **Advanced Next.js** and **System Architecture**.
 - 🎨 Crafting brand identities and UI/UX layouts for diverse digital projects.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-**Development**
 **Development**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,10 +43,21 @@ I am a passionate **Marn Stack Web Developer** and **Graphics Designer** dedicat
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjidasefa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidasefa&theme=radical" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidasefa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 ### 📫 Let's Connect
 <p align="left">
   <a href="mailto:sanjidasefa9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://sanjidasefaportfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-252422?style=for-the-badge&logo=polywork&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sanjidasefa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
